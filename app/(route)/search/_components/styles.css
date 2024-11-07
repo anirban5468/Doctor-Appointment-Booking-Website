@@ -1,0 +1,5 @@
+.command-item-custom:hover {
+  background-color: #0f4cc7; /* equivalent to bg-gray-100 */
+  cursor: pointer;
+}
+  
